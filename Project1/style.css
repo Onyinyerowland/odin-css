@@ -1,0 +1,93 @@
+.font {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 100%;
+    padding:200px;
+    background-color: black;
+    border-radius: 1px bold black;
+    flex-wrap: wrap;
+    column-gap: 0px;
+     
+}
+
+.container {
+   padding: 5px;
+    
+}
+.fontbox1 {
+    background-color: white;
+    color: rgba(0, 81, 255, 0.863);
+    font-weight: 200px;
+    font-size:25px;
+    padding: 1px;
+    text-align:start;
+    font-family: Arial, sans-serif;
+}
+p {
+    justify-content: center;
+    text-align: start;
+}
+.fontbox2 {
+    color: white;
+    background-color: rgb(26, 34, 34);
+    
+} 
+.one {
+    font-size: medium;
+    font-weight: bold;
+    
+}
+#two {
+    font-size: 20px;
+    margin-top: 1px;
+    
+}
+#three {
+    font-size: 30px;
+    margin-top: 1px;
+    font-weight: 1;
+}
+#four {
+    font-size: 48px;
+    margin-top: -50px;
+    font-weight: 60px;
+}
+#five {
+    font-size: 18px;
+    margin-top: 2px;
+}
+
+#six {
+    font-size: 24px;
+    margin-top: 2px;
+}
+.fontbox3 {
+    background-color: white;
+    color: black;
+    margin-top: 3px;
+}
+
+#seven {
+    color: rgb(0, 102, 255);
+    margin-top: 2px;
+    font-size: 20px;
+}
+#eight {
+    font-weight: 36px;
+    margin-top: -25px;
+    
+}
+.fontbox4 {
+    background-color: rgb(214, 210, 210);
+    color: black;
+}
+#nine {
+    font-weight: 25px;
+    margin-top: 2px;
+ 
+}
+#ten {
+    font-style: italic;
+    font-weight: 36px;
+}
